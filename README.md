@@ -1,1 +1,1 @@
-# This is an SPA implementation using pure JavaScript (VanillaJS)
+# This is an SPA implementation using pure JavaScript
